@@ -1,2 +1,2 @@
 # myrepo
-Test repository
+Test repository to learn connecting GitHub remotely.
